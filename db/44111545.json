@@ -1,0 +1,25 @@
+{
+    "action": {
+        "msg": "terrodelas esta escrevendo",
+        "token": "0ba89d2ad30d40de0d24dc1d941cb5dd",
+        "time": 1621711256
+    },
+    "messages": [
+        {
+            "nome": "terrodelas",
+            "avata": "https://avatars.dicebear.com/api/male/2.svg",
+            "message": "klhasskkdasd&#10;",
+            "token": "0ba89d2ad30d40de0d24dc1d941cb5dd",
+            "cor": "rgb(13 202 240)",
+            "create": "22/05/2021 as 21:19"
+        },
+        {
+            "nome": "terrodelas",
+            "avata": "https://avatars.dicebear.com/api/male/2.svg",
+            "message": "asdasdas",
+            "token": "0ba89d2ad30d40de0d24dc1d941cb5dd",
+            "cor": "rgb(13 202 240)",
+            "create": "22/05/2021 as 21:19"
+        }
+    ]
+}
